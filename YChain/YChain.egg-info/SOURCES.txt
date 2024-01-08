@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+README.txt
+setup.py
+YChain.egg-info/PKG-INFO
+YChain.egg-info/SOURCES.txt
+YChain.egg-info/dependency_links.txt
+YChain.egg-info/requires.txt
+YChain.egg-info/top_level.txt
